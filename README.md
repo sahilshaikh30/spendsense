@@ -34,7 +34,7 @@ Total Expense: ₹14000.00
 Average Expense: ₹3500.00
 Remaining Budget: ₹6000.00
 Budget Status: Within Budget
-========================
+====================================
 ```
 
 ## What I practiced
